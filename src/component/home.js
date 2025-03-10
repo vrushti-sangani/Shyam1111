@@ -97,6 +97,9 @@ return (
                 <div>
                     <h3>PAYMENT</h3>
                     <p>100% secure</p>
+                    <p>100% secure</p>
+                    <p>100% secure</p>
+                    <p>100% secure</p>
                 </div>
             </div>
         </section>
