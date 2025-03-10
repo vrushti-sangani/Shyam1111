@@ -49,6 +49,10 @@ function Faq() {
                             <summary className="bgcolor">Do I need to provide a bill for my old appliance?</summary>
                             <p>A bill is not mandatory, but it may help in getting a better exchange value.</p>
                         </details><br />
+                        <details>
+                            <summary className="bgcolor">Do I need to provide a bill for my old appliance?</summary>
+                            <p>A bill is not mandatory, but it may help in getting a better exchange value.</p>
+                        </details><br />
                     </div>
                     <div className="msg1">
                         <h2>Need Help? Let's Chat!</h2>
