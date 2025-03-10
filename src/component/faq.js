@@ -53,6 +53,9 @@ function Faq() {
                     </div>
                     <div className="msg1">
                         <h2>Need Help? Let's Chat!</h2>
+                        
+                        <h2>Hellooooooooo !</h2>
+
                         <label>Message : </label>
                         <textarea name="msg1" id="msg1" rows={4} cols={40} placeholder="drop message..." defaultValue={""} />
                         <input type="button" className="button" defaultValue="submit" />
