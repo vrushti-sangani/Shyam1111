@@ -10,6 +10,7 @@ import Login from "./component/login";
 import Faq from "./component/faq";
 import Cart from "./component/cart";
 
+
 // Protected Route Component
 function ProtectedRoute({ children }) {
     const isAuthenticated = localStorage.getItem("isAuthenticated") === "true";
