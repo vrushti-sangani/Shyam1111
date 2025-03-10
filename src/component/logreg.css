@@ -1,3 +1,10 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
 
 .login{
     border: 1px solid black;
@@ -102,11 +109,32 @@
     flex-direction: column;
     
   }
+  .login{
+    padding: 10px;
+    background-color: azure;
+    margin: 12% 20%;
+    width: 50%;
+  }
+  .registration{
+    margin-top: 30px;
+    width: 60%;
+  }
+
+
+
+
+
+
+  .btnreg{
+    width: 40%;
+}
+.regbody{
+  margin-top: 150px;
+}
 }
 @media (min-width: 720px) and (max-width: 1045px){
   .naemail{
     display: flex;
     flex-direction: column;
-    
   }
 }
